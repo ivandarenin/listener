@@ -7,5 +7,5 @@ spring:
         binderName:
           type: kafka
       bindings:
-        broadcasts:
+        input:
           destination: demo
